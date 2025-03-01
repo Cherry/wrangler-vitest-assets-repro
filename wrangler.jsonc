@@ -1,0 +1,10 @@
+{
+	"$schema": "node_modules/wrangler/config-schema.json",
+	"name": "empty-rice-9f08",
+	"main": "src/index.ts",
+	"compatibility_date": "2025-02-24",
+	"observability": {
+		"enabled": true
+	},
+	"assets": { "directory": "./public/", "binding": "ASSETS" }
+}
